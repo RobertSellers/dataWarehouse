@@ -1,0 +1,43 @@
+1	C3023	Island
+2	C3024	Levee
+3	C3027	Dam
+4	H1100	Connector
+5	H3010	Stream/River
+6	H3013	Braided Stream
+7	H3020	Canal, Ditch or Aqueduct
+8	K2432	Pier/Dock
+9	K2451	Airport or Airfield
+10	K2459	Runway/Taxiway
+11	L4010	Pipeline
+12	L4020	Powerline
+13	L4031	Aerial Tramway/Ski Lift
+14	L4040	Conveyor
+15	L4110	Fence Line
+16	L4121	Ridge Line
+17	L4125	Cliff/Escarpment
+18	L4130	Point-to-Point Line
+19	L4140	Property/Parcel Line (Including PLSS)
+20	L4165	Ferry Crossing
+21	R1011	Railroad Feature (Main, Spur, or Yard)
+22	R1051	Carline, Streetcar Track, Monorail, Other Mass Transit Rail
+23	R1052	Cog Rail Line, Incline Rail Line, Tram
+24	S1100	Primary Road
+25	R1011	Railroad Feature (Main, Spur, or Yard)
+26	R1051	Carline, Streetcar Track, Monorail, Other Mass Transit Rail)
+27	R1052	Cog Rail Line, Incline Rail Line, Tram
+28	S1100	Primary Road
+29	S1200	Secondary Road
+30	S1400	Local Neighborhood Road, Rural Road, City Street
+31	S1500	Vehicular Trail (4WD)
+32	S1630	Ramp
+33	S1640	Service Drive usually along a limited access highway
+34	S1710	Walkway/Pedestrian Trail
+35	S1720	Stairway
+36	S1730	Alley
+37	S1740	Private Road for service vehicles (logging, oil, fields, ranches, etc.)
+38	S1750	Private Driveway
+39	S1780	Parking Lot Road
+40	S1820	Bike Path or Trail
+41	S1830	Bridle Path
+
+
